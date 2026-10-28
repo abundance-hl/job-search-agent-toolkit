@@ -1,0 +1,40 @@
+{
+  "name": "Robotics and Automation",
+  "summary": "Illustrative robotics profile emphasizing operational requirements, equipment evaluation, testing, and deployment readiness. Shows how engineering activities can be organized for a technical role while keeping assumptions and review steps clear. Anonymized demonstration only; these are not an applicant's verified facts.",
+  "sections": [
+    {
+      "heading": "ROBOTICS & AUTOMATION EXPERIENCE",
+      "entries": [
+        {
+          "id": "retail-organization-automation-engineer"
+        },
+        {
+          "id": "manufacturing-organization-equipment-engineer"
+        },
+        {
+          "id": "manufacturing-organization-engineering-intern"
+        },
+        {
+          "id": "engineering-lab-engineering-intern"
+        }
+      ]
+    },
+    {
+      "heading": "ADDITIONAL EXPERIENCE",
+      "entries": [
+        {
+          "id": "research-organization-research-analyst",
+          "include_description": false,
+          "bullets_override": [
+            "Prepared research summaries that distinguished source evidence, interpretation, and unanswered questions.",
+            "Explained complex concepts in language appropriate for readers with different levels of technical familiarity."
+          ]
+        }
+      ]
+    }
+  ],
+  "pdf_subject": "Anonymized illustrative adaptation - not applicant facts",
+  "page_break": {
+    "before_experience": "engineering-lab-engineering-intern"
+  }
+}

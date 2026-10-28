@@ -1,0 +1,17 @@
+{
+  "status": "Draft — needs your review",
+  "job_identifiers": {
+    "linkedin_job_id": null,
+    "employer_posting_id": null
+  },
+  "sources": [],
+  "source_record_fields": {
+    "id": "Unique local source key, such as employer-posting",
+    "url": "Exact source URL, or a private file path for user-provided evidence",
+    "title": "Source title",
+    "checked_on": "YYYY-MM-DD in the user's local date",
+    "availability": "accessible, inaccessible, expired, or user-provided",
+    "supports": "Claims or requirements this source supports",
+    "limitations": "Age, missing content, conflicts, or other evidence limits"
+  }
+}

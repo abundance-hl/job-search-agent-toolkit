@@ -1,0 +1,13 @@
+{
+  "name": "Replace with your target role",
+  "summary": "Replace with a summary supported by your factual master resume.",
+  "pdf_subject": "Draft - needs applicant review",
+  "sections": [
+    {
+      "heading": "RELEVANT EXPERIENCE",
+      "entries": [
+        {"id": "example-employer-your-role", "bullet_indexes": [0, 1]}
+      ]
+    }
+  ]
+}

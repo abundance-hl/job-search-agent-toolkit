@@ -1,0 +1,45 @@
+{
+  "name": "Crypto Venture Fund",
+  "summary": "Illustrative research profile combining technical evaluation, operational context, and project-definition examples. Demonstrates how to distinguish directing AI-assisted work from personally writing code. Personal details and distinctive accomplishments have been removed; this is not an applicant's factual resume.",
+  "sections": [
+    {
+      "heading": "CRYPTO RESEARCH EXPERIENCE",
+      "entries": [
+        {
+          "id": "research-organization-research-analyst"
+        }
+      ]
+    },
+    {
+      "heading": "ENGINEERING EXPERIENCE",
+      "entries": [
+        {
+          "id": "retail-organization-automation-engineer"
+        },
+        {
+          "id": "manufacturing-organization-equipment-engineer"
+        },
+        {
+          "id": "manufacturing-organization-engineering-intern"
+        },
+        {
+          "id": "engineering-lab-engineering-intern"
+        }
+      ]
+    },
+    {
+      "heading": "AI-ASSISTED GTM & SOFTWARE PROJECTS",
+      "entries": [
+        {
+          "id": "workflow-demonstration-ai-assisted-project-example"
+        },
+        {
+          "id": "operations-demonstration-ai-assisted-project-example"
+        }
+      ]
+    }
+  ],
+  "font_kerning": "On",
+  "pdf_subject": "Anonymized illustrative adaptation - not applicant facts",
+  "education_before_section": "AI-ASSISTED GTM & SOFTWARE PROJECTS"
+}

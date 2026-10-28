@@ -1,0 +1,4 @@
+# 6.21.3 joins some TeX Gyre Termes words; 6.10.0 preserves these sample PDFs.
+pypdf==6.10.0
+pdfplumber>=0.11,<1
+reportlab>=4,<5

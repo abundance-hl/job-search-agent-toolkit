@@ -1,0 +1,22 @@
+# Candidate data and credentials stay local.
+/private/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*cookie*.json
+*session*.json
+/.codex/
+/.linkedin-mcp/
+# Local runtime and generated artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+/build/
+/output/
+/tmp/
+*.synctex.gz
